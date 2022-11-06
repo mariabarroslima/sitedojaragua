@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lustria&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+
+body{
+  
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #78e026;
+}
+  
+
+
+
+
+
+
+
+
+#menu  p{
+    display: inline-block;
+    margin: 0  50px 0 20px;
+    font-family: 'Cinzel', serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    
+    
+}
+
+#menu{
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.31 );
+
+}
+
+#vila{
+    margin: 0;
+    font-size: 40px;
+    font-family: 'Comforter', cursive;
+    color: #78e026;
+  
+}
+
+#jaragua{
+    font-family: 'Zen Loop', cursive;
+    margin: 0;
+    padding-left: 4px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #000000;
+}
+
+#login{
+        
+    float: inline-end;    
+    border: 1px solid #D9D9D9;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    background-color: #D9D9D9;
+  
+}
+
+#login-text{
+
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    padding: 10px;
+    color: rgba(0,0,0,1)
+}
+
+
+
+#background {
+
+
+    height: 90vh;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    color: #eee;
+
+    background:url('https://2.bp.blogspot.com/-NgezGIJv4jM/WtVIwahECdI/AAAAAAAANr8/BGXtvfYjcqku8_1azEKFLGf7kAm2MKK9wCLcBGAs/s1600/Pico-do-Jaragu%25C3%25A1-S%25C3%25A3o-Paulo.jpg') no-repeat center/cover;
+    
+    
+    
+    background-color: rgba(0,0,0,0.3);
+
+    background-blend-mode: color;
+    
+
+}
+
+#background-container{
+    display: flex;
+    font-family: 'Lustria', serif;
+    color: #000000;
+   
+    width: 100%;
+    
+
+
+}
+
+#background-container h2{
+    
+    font-size: 1rem;
+    
+    
+
+
+}
+
+.balao{
+    text-align: center;
+    width: 15%;
+    background-color: #789562;
+    margin: 45% auto 0 auto; 
+    
+}
+
+
+
+
+
+content  p{
+    background-color: #6d815e;
+    font-family: 'Lustria', serif;
+    font-size: 18px;    
+    margin-bottom: 0;
+    
+}
+
+.div img{
+    width: 100%;
+    height: 40%;
+
+    
+}
+
+
+
+
+.div{   
+    
+    width: 20%;    
+    margin: 7% auto 0 auto; 
+}
+
+#texto2 p{
+    padding: 0 15px 0 15px;
+    position: relative;
+    top: 11%;
+    text-align: center;
+
+}
+
+#div2 p{
+    padding: 0 15px 0 15px;
+    position: relative;
+    top: 12%;
+    text-align: center;
+}
+
+#div p{
+    padding: 0 15px 0 15px;
+    position: relative;
+    top: 2%;
+    text-align: center;
+}
+
+.div{
+    z-index: -1;
+    box-shadow: 20px 30px #B1C0A5;
+}
+
+
+#texto2{
+    background-color: #6d815e;
+    height: 97%;
+    
+}
+
+
+.texto1{
+    height: 56.3% ;
+    background-color: #6d815e;
+}
+
+
+
+
+#pcontent{
+    padding: 15px;
+    margin:92px
+}
+
+#containers{
+    
+    display: flex;
+    padding-bottom: 0; 
+}
+
+#pcontent{
+    background-color: #6d815e;
+    text-align: center;
+    box-shadow: 20px 30px #B1C0A5;
+}
+
+#pcontent p{
+    padding: 0 10px 0 10px;
+}
+
+footer img{
+    display: inline-block;
+    width: 20px;
+}
+footer p{
+    font-size: 1rem;
+    display: inline-block;
+   
+}
+
+
+
+footer div{
+    width: 50%;
+}
+
+footer{
+    font-family: 'Lustria', serif;  
+    text-align: center;
+    margin-top: 7%;
+    color:#FFFFFF;
+    background-color: #132307;
+    display: flex;
+}   
+
